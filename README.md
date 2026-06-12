@@ -155,7 +155,7 @@ Protected API Access
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
 <img width="1124" height="609" alt="Screenshot 2023-08-05 045020" src="https://github.com/user-attachments/assets/812603d8-32c1-4b9f-9cf7-c5ee646c2a55" />
 
